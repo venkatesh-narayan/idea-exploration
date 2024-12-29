@@ -1,0 +1,13 @@
+Goal: {goal}
+
+Context: {context}
+
+Known Facts:
+{known_facts}
+
+Already Explored Information Needs:
+{explored_nodes}
+
+Generate additional essential information nodes we need to gather. Use any known facts to identify new essential questions that emerge, while maintaining focus on information that would be necessary regardless of implementation approach.
+
+Remember to explain why each piece of information is essential and how it affects the viability of any solution.

@@ -1,0 +1,15 @@
+Goal: {goal}
+
+Key Information Gathered:
+{key_info}
+
+Explored Approaches:
+{explored_approaches}
+
+Generate recommendations based on this analysis. Identify the most promising approach, viable alternatives, and explain why certain approaches were rejected.
+
+Make sure recommendations are:
+- Grounded in the gathered facts
+- Technically feasible
+- Economically viable
+- Practical to implement

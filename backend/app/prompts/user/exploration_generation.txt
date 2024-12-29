@@ -1,0 +1,19 @@
+Goal: {goal}
+
+Context: {context}
+
+Key Information We've Gathered:
+{key_info}
+
+Already Explored Approaches (with what we've learned):
+{explored_approaches}
+
+Generate a graph exploring additional approaches or delving deeper into promising directions, using all gathered information to inform the exploration.
+
+Remember:
+- Consider both obvious and creative solutions
+- Stay grounded in practicality
+- Don't duplicate already explored approaches
+- Look for fundamentally different directions
+- Don't dismiss approaches just because exact solutions don't exist
+- Consider how existing technologies could be adapted

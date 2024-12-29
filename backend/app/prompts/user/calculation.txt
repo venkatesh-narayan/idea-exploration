@@ -1,0 +1,7 @@
+Question to calculate: {question}
+
+Available data:
+{available_data}
+
+Generate Python code to perform this calculation using only the available data and basic operations.
+Explain how the calculation works and include clear comments in the code.

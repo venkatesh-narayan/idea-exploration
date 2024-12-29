@@ -1,0 +1,14 @@
+We need to find information about: {question}
+
+Context:
+{context}
+
+These searches have already failed:
+{failed_searches}
+
+We know these facts that might help:
+{known_facts}
+
+Please break this question down into more specific parts that might be easier to search for. For each part, provide specific search queries to try.
+
+Remember to be more specific than the failed searches and use any known facts to make the searches more targeted.

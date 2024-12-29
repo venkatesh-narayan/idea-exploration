@@ -1,0 +1,7 @@
+Question we need to answer: {question}
+
+Webpage content to analyze:
+{content}
+
+Extract any facts that directly help answer this question. Include supporting quotes.
+If no relevant facts are found, return an empty list.

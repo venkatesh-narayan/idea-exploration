@@ -1,0 +1,12 @@
+We need to estimate: {question}
+
+Context:
+{context}
+
+We tried searching for this information but couldn't find it. Here are the searches we tried:
+{failed_searches}
+
+Here are some facts we do know that might help:
+{known_facts}
+
+Please generate a reasonable estimate using first principles reasoning. Break down your thinking step by step and be explicit about your assumptions.
